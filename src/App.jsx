@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      <div className='container flex md:flex-col lg:flex-row mx-auto mt-28 items-center justify-center'>
+      <div className='container flex sm:flex-col md:flex-col lg:flex-row mx-auto mt-28 items-center justify-center'>
         <div className='left mx-14 w-4/5 mb-6'>
           <img className='w-60' src='./src/assets/fb.svg'></img>
           <p className='text-2xl mx-6'>Facebook helps you connect and share with the people in your life.</p>
